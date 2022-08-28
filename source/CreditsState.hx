@@ -86,7 +86,7 @@ class CreditsState extends MusicBeatState
 			['Idklool',	'idk',				'sla q colocar aqui',					'https://youtube.com/channel/UCOoeKCV2-Ku_6CNpYQ3TuxA', 	'FB3E9A'],
 			[''],
 			['Button code by'],
-			['Misha21220',	'misha',				'bro I dont know how to do this button code ;-;',					'https://www.youtube.com/channel/UCjjgTnBqLfHRdZ-WyYpNWGw', 	'8B0000'],
+			['Misha21220',	'misha',				'bro I dont know how to do this button code',					'https://www.youtube.com/channel/UCjjgTnBqLfHRdZ-WyYpNWGw', 	'8B0000'],
 			[''],
 			['Cara q fez o port lol']
 			['Guislakkkk',    'gui',                'lol',                    'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ',     'FE0015'],
